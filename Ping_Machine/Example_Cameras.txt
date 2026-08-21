@@ -1,0 +1,10 @@
+192.168.44.101
+Reception
+192.168.44.102
+Coffee Machine
+192.168.44.103
+Liquid Storage
+192.168.44.104
+Production Hall 1
+192.168.44.105
+Production Hall 2
